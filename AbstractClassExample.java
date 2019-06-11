@@ -23,6 +23,9 @@ class sub_subAbstract extends subAbstract{
 	void DisplayChild(){
 		System.out.println("This is method of sub-sub Class");
 	}
+	void DisplayChild1(){
+		System.out.println("This is method of sub-sub Class");
+	}
 }
 
 public class AbstractClassExample {
